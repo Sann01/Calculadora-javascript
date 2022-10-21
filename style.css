@@ -83,3 +83,8 @@ body{
     background-color: rgb(189, 186, 186);
   }
 
+  @media (max-width:500px){
+    #calc{
+      width: 100%;
+    }
+  }
